@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hadid_Project</string>
+    <string name="nav_tambah_data">Tambah Data</string>
+    <string name="nav_lihat_data">Lihat Data</string>
+    <string name="navigation_draw_open">Open Navigation</string>
+    <string name="navigation_draw_close">Close Navigation</string>
+
+</resources>
